@@ -40,5 +40,23 @@ This project demonstrates the deployment and use of osTicket, an open-source hel
 - Ticket Resolved
 
 ## Outcome
+## Screenshots
 
+### 1. Support Ticket Created
+![Support Ticket Created](01-Support-Ticket-Created.png)
+
+### 2. User Ticket Listed
+![User Ticket Listed](02-User-Ticket-Listed.png)
+
+### 3. Ticket Opened
+![Ticket Opened](03-Ticket-Opened.png)
+
+### 4. Ticket Assigned
+![Ticket Assigned](04-Ticket-Assigned.png)
+
+### 5. Reply Posted
+![Reply Posted](05-Reply-Posted.png)
+
+### 6. Ticket Resolved and Closed
+![Ticket Resolved and Closed](06-Ticket-Resolved-and-Closed.png)
 Successfully configured osTicket and completed an end-to-end help desk support workflow, demonstrating practical IT support and ticket management skills.
